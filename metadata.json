@@ -1,0 +1,8 @@
+{
+  "name": "Tesla Nav",
+  "description": "Navegador estilo Tesla Model X com GPS em tempo real",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
